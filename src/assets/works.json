@@ -1,27 +1,27 @@
 [
     {
-        "id": "ciao",
+        "id": 1,
         "title": "Work 1",
         "description": "This is a sample work",
-        "image_thumbnail":"https://source.unsplash.com/random/500×700/?fruit",
+        "image_thumbnail":"https://source.unsplash.com/random/500×700/?cat",
         "image_detail":"https://picsum.photos/1024/768",
         "client":"Client1",
         "url": "https://www.google.com"
     },
     {
-        "id": "ciao",
+        "id": 2,
         "title": "Work 2",
         "description": "This is a sample work",
-        "image_thumbnail": "https://source.unsplash.com/random/500×700/?fruit",
+        "image_thumbnail": "https://source.unsplash.com/random/500×700/?tiger",
         "image_detail": "https://picsum.photos/1024/768",
         "client": "Client1",
         "url": "https://www.google.com"
     },
     {
-        "id": "ciao",
+        "id": 3,
         "title": "Work 3",
         "description": "This is a sample work",
-        "image_thumbnail": "https://source.unsplash.com/random/500×700/?fruit",
+        "image_thumbnail": "https://source.unsplash.com/random/500×700/?panther",
         "image_detail": "https://picsum.photos/1024/768",
         "client": "Client1",
         "url": "https://www.google.com"

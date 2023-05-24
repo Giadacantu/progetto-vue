@@ -1,8 +1,6 @@
 <script>
-import HelloWorld from './components/HelloWorld.vue';
-import TheWelcome from './components/TheWelcome.vue';
-
 import Mycomponent from './components/Mycomponent.vue';
+import Header from './components/Header.vue';
 
 import worksData from './assets/works.json';
 
@@ -14,15 +12,14 @@ export default {
   },
   components: {
     Mycomponent,
+    Header,
   }
 };
-
 
 </script>
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
       
